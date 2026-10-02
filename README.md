@@ -1,4 +1,4 @@
-# Hi, I'm Gabria Gordon
+# Hi, I'm Gabria
 
 Final-year Computer Science student at the **University of the West Indies, Mona** (BSc, minor in Economics). I'm interested in networking, cybersecurity, software development, IT/systems and AI/machine learning, and I'm looking for internships and entry-level opportunities in these areas.
 
